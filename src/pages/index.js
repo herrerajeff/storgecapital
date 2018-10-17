@@ -27,7 +27,7 @@ const Home = ({data}) => (
     <Wrapper>
       <Hero>
         <p>
-          Storge Capital mobilizes underrepresented entrepreneurs through <span>equity-centered storytelling, capacity building, &amp; mentorship.</span>
+          Storge Capital mobilizes underrepresented entrepreneurs through <span>equity-centered storytelling, capacity building, and mentorship.</span>
         </p>
       </Hero>
     </Wrapper>
